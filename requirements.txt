@@ -50,7 +50,7 @@ pytest-xdist==1.33.0
 python-dateutil==2.8.1
 redis==3.5.3
 regex==2020.6.8
-sentry-sdk[flask]==0.15.1
+sentry-sdk[flask]==0.16.1
 six==1.15.0
 Sphinx==3.1.1
 sphinx-rtd-theme==0.5.0
